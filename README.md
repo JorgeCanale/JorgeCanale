@@ -2,4 +2,4 @@
 
 - 🌱 I’m currently learning TypeScript
 - 🛠  Tech Stack
-![this image](https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e)
+![javascript](https://www.google.com/search?q=javascript+logo&tbm=isch&hl=es-419&sa=X&ved=2ahUKEwiJxJ-0hbf6AhUqrZUCHZCsBeIQrNwCKAB6BQgBEJIC&biw=1343&bih=699#imgrc=hDOuE3Uh0EiOSM) ![react](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.reactjs.org%2F&psig=AOvVaw0PzHvTZ55LrhHZSSHpSoT2&ust=1664439309863000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjbheCFt_oCFQAAAAAdAAAAABAE)
